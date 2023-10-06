@@ -1,0 +1,39 @@
+Q-1 WAP to print “Hello World” using C++
+Ans--#include <iostream>
+using namespace std;
+int main() 
+{
+        cout<<"Hello World"<<endl;
+}
+Q-2  What is OOP? List OOP concepts 
+Ans--The main ideas behind Java's Object-Oriented Programming, OOP concepts include abstraction, encapsulation, inheritance and polymorphism.
+List OOP concepts :
+1) Inheritance
+2) incapsulation
+3) object
+4) class
+5) abstraction
+6) polymorphism
+Q-3  What is the difference between OOP and POP?
+Ans--Object-Oriented Programming (OOP)
+1)  Program is divided into objects.
+2) Bottom-up approach.
+3) Inheritance property is used.
+4) It uses access specifier.
+5) Encapsulation is used to hide the data.
+6) Concept of virtual function.
+7) Object functions are linked through message passing.
+8) Adding new data and functions is easy
+9) java ,c++
+Procedural Oriented Programming (POP)
+1) Top-down approach
+2) Inheritance is not allowed.
+3) It doesn’t use access specifier.
+4) No data hiding.
+5) No virtual function
+6) Parts of program are linked through parameter passing
+7) Expanding new data and functions is not easy.
+8) No code reusability
+9)C, Pascal.
+
+
